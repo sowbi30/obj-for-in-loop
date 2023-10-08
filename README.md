@@ -1,1 +1,0 @@
-# obj-for-in-loop
