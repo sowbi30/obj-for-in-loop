@@ -1,0 +1,12 @@
+let details ={
+    name  sowbaranika,
+    age  32,
+    DOB 10011992,
+    School  2009,
+    college  2012
+}
+details.gender= Female;
+
+for (let i in details){
+    console.log(i,details[i]);
+}
